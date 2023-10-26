@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zineb Belkho</h1>
 <h3 align="center">A passionate data science and machine learning</h3>
-
+<img src="C:/Users/Dell/Desktop/zineb/1696889673579.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinebbelkho&label=Profile%20views&color=0e75b6&style=flat" alt="zinebbelkho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zinebbelkho" alt="zinebbelkho" /></a> </p>
